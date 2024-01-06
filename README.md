@@ -1,0 +1,2 @@
+# nftmax
+Proyecto para dashboard
